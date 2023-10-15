@@ -1,0 +1,40 @@
+.menu{
+    list-style: none;
+    background-color: #dda0dd;
+}
+
+.menu li{
+    display: inline-block;
+    background-color: #dda0dd;
+    padding: 10px;
+    width: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    margin: 50px; 
+}
+
+body{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 203, 231);
+    width: 700px;
+    text-decoration: none;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    background-color: #dda0dd;
+}
+
+h2{
+    background-color: plum;
+    border-radius: 20px;
+    text-indent: 20px;
+}
+
+a{
+    text-decoration: none;
+}
